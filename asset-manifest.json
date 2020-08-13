@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.0911872f.chunk.css",
+    "main.js": "/Portfolio/static/js/main.8a480d59.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.8a480d59.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.636edcf1.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.636edcf1.js.map",
+    "static/js/2.e3a7c448.chunk.js": "/Portfolio/static/js/2.e3a7c448.chunk.js",
+    "static/js/2.e3a7c448.chunk.js.map": "/Portfolio/static/js/2.e3a7c448.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.c77ce5a8f5ce5cb7748b214b5af37a71.js": "/Portfolio/precache-manifest.c77ce5a8f5ce5cb7748b214b5af37a71.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.0911872f.chunk.css.map": "/Portfolio/static/css/main.0911872f.chunk.css.map",
+    "static/js/2.e3a7c448.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e3a7c448.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpeg": "/Portfolio/static/media/avatar.d56e7b7a.jpeg",
+    "static/media/mobile_shopping.png": "/Portfolio/static/media/mobile_shopping.6c00cb9d.png",
+    "static/media/star_bucks.jpg": "/Portfolio/static/media/star_bucks.1743a908.jpg",
+    "static/media/to_do_list.jpg_fit=scale": "/Portfolio/static/media/to_do_list.0a37faf4.jpg_fit=scale",
+    "static/media/App.css": "/Portfolio/static/media/work.b74643cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.636edcf1.js",
+    "static/js/2.e3a7c448.chunk.js",
+    "static/css/main.0911872f.chunk.css",
+    "static/js/main.8a480d59.chunk.js"
+  ]
+}
